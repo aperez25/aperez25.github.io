@@ -10,7 +10,6 @@ github_username:  "aperez25"
 linkedin_username: "#"
 feed_icon: rss
 email: "alice.perez25[at]gmail.com"
-gems: -jekyll-paginate
-	-jekyll-feed
+gems: [jekyll-paginate, jekyll-feed]
 paginate_path: "/page/:num/"
 paginate: 5
