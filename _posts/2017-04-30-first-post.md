@@ -27,9 +27,6 @@ You'll find that bootcamps tend to teach either Javascript or Ruby anyway, and t
 
 Which brings me to my next realization...
 
-<img src="_posts/pexels-photo-256546.jpeg" class="fit image">
-
-
 ## Learning All of The Things
 Let's say you've already started filling out applications and are at the coding challenge or coding interview stage. You're a nervous wreck thinking about bombing the interview and have started a few different online courses or programs to get you up to speed. You like each one for a different reason, but want to make sure you're spending your time in the right places. You're also thinking about spending a few thousand dollars for the 100% guarantee that you'll get in somewhere. Which one or two do you decide to focus on?
 
