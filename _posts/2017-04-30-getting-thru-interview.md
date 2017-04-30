@@ -24,7 +24,7 @@ To build off of how to push forward when you get stuck, and if you're learning J
 
 If you're comfortable at working through and understanding how each of these work, it will be much easier to 1) collaborate with your interviewer, 2) ask him/her the right questions as you tackle the coding challenge, and 3) give you the ability to apply their suggestions. 
 
-<img src="images/282H.jpg" class="fit image"> 
+<img src="/images/282H.jpg" class="fit image"> 
 
 ## "Do you have any questions for me?"
 
