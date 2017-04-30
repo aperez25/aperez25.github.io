@@ -1,6 +1,6 @@
 ---
 published: true
-title: Getting through the CB Interview
+title: Getting through the Coding Bootcamp Interview
 label: bootcamp-prep
 categories: bootcamp-prep
 layout: post
