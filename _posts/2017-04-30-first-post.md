@@ -27,7 +27,7 @@ You'll find that bootcamps tend to teach either Javascript or Ruby anyway, and t
 
 Which brings me to my next realization...
 
-<img src="/pexels-photo-256546.jpg" class="fit image">
+<img src="./pexels-photo-256546.jpg" class="fit image">
 
 
 ## Learning All of The Things
