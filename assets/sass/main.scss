@@ -453,7 +453,7 @@
 
 		&:before {
 			@include vendor('transition', 'opacity #{_duration(transition)} ease-in-out');
-			background: url('images/steinar-engeland-199174.jpg');
+			background: url('images/emma-frances-logan-barker-130191.jpg');
 			border-radius: _size(border-radius);
 			content: '';
 			display: block;
@@ -495,7 +495,7 @@
 				}
 
 				&:before {
-					background: url('images/steinar-engeland-199174.jpg'), url('images/steinar-engeland-199174.jpg');
+					background: url('images/emma-frances-logan-barker-130191.jpg'), url('images/emma-frances-logan-barker-130191.jpg');
 					opacity: 1.0;
 				}
 			}
