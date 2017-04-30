@@ -2,6 +2,8 @@
 published: true
 title: Getting through the CB Interview
 label: bootcamp-prep
+categories: bootcamp-prep
+layout: post
 ---
 ## Prepping Tips
 
