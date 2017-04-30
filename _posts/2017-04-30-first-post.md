@@ -21,9 +21,9 @@ Unlike spoken language, it's much easier to read and write new programming langu
 
 You'll find that bootcamps tend to teach either Javascript or Ruby anyway, and though Javascript is more complicated from a syntax perspective, if you're motivated enough to be applying to CBs, picking up one or the other over a weekend to fill out a coding challenge shouldn't be a problem. It's also likely that the CBs you're applying to have their own prep course anyway, making things even easier. Here are a few that do for free:
 
--[Flatiron School Prep Course](https://flatironschool.com/programs/online-bootcamp-prep-course/)
--[Hack Reactor Prep Program](http://www.hackreactor.com/prep-programs)
--[Viking Code School Prep](https://www.vikingcodeschool.com/prep)
+- [Flatiron School Prep Course](https://flatironschool.com/programs/online-bootcamp-prep-course/)
+- [Hack Reactor Prep Program](http://www.hackreactor.com/prep-programs)
+- [Viking Code School Prep](https://www.vikingcodeschool.com/prep)
 
 Which brings me to my next realization...
 
