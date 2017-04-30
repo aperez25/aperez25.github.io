@@ -6,6 +6,7 @@ layout: post
 image: ../images/fulls/01.jpg
 ---
 
+<img src="/images/StockSnap_14QY2T9UPC.jpg" class="fit image">
 
 Deciding to restart your career is a tough decision, and once you realize how many resources there are to learn programming, it's easy to get overwhelmed. Here's what I wish I had heard before I prepped and interviewed for a coding bootcamp (CB).
 
