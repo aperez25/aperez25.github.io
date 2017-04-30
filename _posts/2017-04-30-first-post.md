@@ -6,9 +6,9 @@ layout: post
 image: ../images/fulls/01.jpg
 ---
 
-<img src="/images/StockSnap_14QY2T9UPC.jpg" class="fit image">
-
 Deciding to restart your career is a tough decision, and once you realize how many resources there are to learn programming, it's easy to get overwhelmed. Here's what I wish I had heard before I prepped and interviewed for a coding bootcamp (CB).
+
+<img src="/images/StockSnap_14QY2T9UPC.jpg" class="fit image">
 
 ## Parlais Vous Ruby?
 When you decided on learning to code, you probably followed that decision by googling "What coding language should I learn?". And then you probably read that it's easy to pick-up different languages once you understand some basic but very important concepts for programming, such as:
@@ -26,6 +26,9 @@ You'll find that bootcamps tend to teach either Javascript or Ruby anyway, and t
 -[Viking Code School Prep](https://www.vikingcodeschool.com/prep)
 
 Which brings me to my next realization...
+
+<img src="/pexels-photo-256546.jpeg" class="fit image">
+
 
 ## Learning All of The Things
 Let's say you've already started filling out applications and are at the coding challenge or coding interview stage. You're a nervous wreck thinking about bombing the interview and have started a few different online courses or programs to get you up to speed. You like each one for a different reason, but want to make sure you're spending your time in the right places. You're also thinking about spending a few thousand dollars for the 100% guarantee that you'll get in somewhere. Which one or two do you decide to focus on?
