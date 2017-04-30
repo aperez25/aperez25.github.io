@@ -1,7 +1,9 @@
 ---
 published: true
 title: Picking Coding Bootcamp Prep Resources
-categories: bootcamp prep
+categories: bootcamp-prep
+layout: post
+image: ../images/fulls/01.jpg
 ---
 Deciding to restart your career is a tough decision, and once you realize how many resources there are to learn programming, it's very easy to get overwhelmed. Here's what I wish I had heard before I prepped and interviewed for a coding bootcamp (CB):
 
@@ -39,4 +41,4 @@ To the last point, this is a lot tougher since everyone learns differently. I've
 
 ##But  the reality, and the single best piece of advice I saw, was that you **WILL** get stuck during the CB interview. 
 
-This is why having an understanding of what the code is doing is so important. But that's a topic for another post... 
+This is why having an understanding of what the code is doing is so important. But that's a topic for another post...
