@@ -32,7 +32,7 @@ If you're comfortable at working through and understanding how each of these wor
 
 The interviewer's main objective is to determine whether you'd mesh well with the CB's learning style, master their material, and have the drive for the job search afterwards. Remember, these are for-profit companies, so the good CBs will want to make sure you can actually get a job afterwards. Your success becomes their success since most share their placement numbers on their site and with future students. 
 
-### Here are three general questions you should definitely prepare answers to: 
+### Here are the general questions you should be prepared to answer: 
 - Why do you want to learn to program? 
 - Tell me about yourself and your career before this. 
 - Why this program? What do you like best about us?
