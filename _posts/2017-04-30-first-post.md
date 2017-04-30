@@ -40,6 +40,6 @@ But, again, there are a lot of resources to guide you through this. I found Hack
 
 To the last point, this is a lot tougher since everyone learns differently. I've heard great things about [Harvard/edX's CS50 course](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), but timeline wise this didn't fit with what I was aiming for: I started studying in January with the aim of knowing where I was going by March. I had already had a lot of starts and stops; just four months before I had started studying JS than didn't follow through with interviews. That helped, but overall this was a really tight, self-imposed schedule. If you can spread it over a longer period of time, I would. What I ended up doing was using Eloquent Javascript, Medium/blog posts to dive deeper into Javascript methods [like this](https://medium.com/@joshpitzalis/reduce-f47a7da511a9), and a lot of Codewars & Coderbyte.
 
-## But  the reality, and the single best piece of advice I saw, was that you **WILL** get stuck during the CB interview. 
+## But  the reality, and the single best piece of advice I saw, was that you _WILL_ get stuck during the CB interview. 
 
 This is why having an understanding of what the code is doing is so important. But that's a topic for another post...
