@@ -453,7 +453,7 @@
 
 		&:before {
 			@include vendor('transition', 'opacity #{_duration(transition)} ease-in-out');
-			background: url('images/overlay.png');
+			background: url('images/steinar-engeland-199174.jpg');
 			border-radius: _size(border-radius);
 			content: '';
 			display: block;
