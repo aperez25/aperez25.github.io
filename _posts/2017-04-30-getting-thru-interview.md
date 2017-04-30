@@ -3,8 +3,6 @@ published: true
 title: Getting through the CB Interview
 label: bootcamp-prep
 ---
-# Getting Through the Coding Interview
-
 ## Prepping Tips
 
 Viking Code School's post on ['Surviving the Interview'](https://www.vikingcodeschool.com/posts/surviving-the-coding-interview) is a great overview for understanding what the interview is like from a coding bootcamp's perspective. They have a ton of great resources in that post, so read that first and then come back over here :) 
@@ -52,4 +50,3 @@ The interviewer's main objective is to determine whether you'd mesh well with th
 - As s/he looks back at the various students that have gone through the program, what has characterized the outstanding performers?
 
 Remember, you're interviewing them as much as they are interviewing you! Make sure the CB will fit your learning style and will get you the outcome you're looking for.
-
