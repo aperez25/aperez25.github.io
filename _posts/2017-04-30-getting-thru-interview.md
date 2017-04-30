@@ -5,6 +5,8 @@ label: bootcamp-prep
 categories: bootcamp-prep
 layout: post
 ---
+Here is how I prepared for the video/coding interviews once they were scheduled.
+
 ## Prepping Tips
 
 Viking Code School's post on ['Surviving the Interview'](https://www.vikingcodeschool.com/posts/surviving-the-coding-interview) is a great overview for understanding what the interview is like from a coding bootcamp's perspective. They have a ton of great resources in that post, so read that first and then come back over here :) 
