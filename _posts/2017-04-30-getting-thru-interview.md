@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: Getting through the CB Interview
+label: bootcamp-prep
 ---
 # Getting Through the Coding Interview
 
