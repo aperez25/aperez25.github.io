@@ -5,7 +5,7 @@ Among the things I wasn't prepared for starting CB was the amount of tools I'd b
 
 <img src="/images/StockSnap_F21WWLQO5T.jpg" class="fit image">
 
-## Don't Be _bashful_
+## Don't be _bashful_
 
 You might already know that a shell is a program that executes text commands. The standard OS X shell (i.e. the one installed on Macs) is called Bash. You'll hear "open your terminal" a lot during CB, which is basically the UI for your shell. Terminals look something like this: 
 
