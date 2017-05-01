@@ -5,7 +5,7 @@ label: bootcamp-prep
 categories: bootcamp-prep
 layout: post
 ---
-Here is how I prepared for the video/coding interviews once they were scheduled.
+Don't reinvent the wheel! Here is an outline and study guide for how I prepared for my coding interviews. 
 
 ## Prepping Tips
 
