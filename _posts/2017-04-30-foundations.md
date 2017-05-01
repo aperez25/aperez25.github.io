@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Among the things I wasn't prepared for starting CB was the amount of tools I'd be installing. Here are three you'll probably use regardless of which CB you attend:
 
