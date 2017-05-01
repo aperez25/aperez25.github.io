@@ -3,6 +3,7 @@ published: true
 title: 3 Tools to Use Before Your Bootcamp Starts
 tags: bootcamp-prep
 categories: bootcamp-prep
+label: bootcamp-prep
 ---
 Among the things I wasn't prepared for starting CB was the amount of tools I'd be installing. Here are three you'll probably use regardless of which CB you attend:
 
