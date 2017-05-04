@@ -40,6 +40,9 @@ My brother, who's studying Computer Sciemce, is using VSC, so I went with that. 
 
 Other than that, I think it's all about personal preference, as both have lots of packages/extensions to make writing code easier. 
 
+<img src="/images/StockSnap_LPNMGYHXCT.jpg" class="fit image">
+
+
 ## Git Outta Here
 Git is the most commonly used VCS, or Version Control System. A high-level description is it records changes to a file or set of files over time. I won't say much more than that as Git is important enough that you should take the time to download and research what it is and how to use it. Here is a [simple guide](http://rogerdudler.github.io/git-guide/) to get you started.
 
@@ -51,5 +54,3 @@ An important part to your experience with git will be github.com. I have only be
 - `git add -A` 
 - `git commit -m "YOUR COMMIT MESSAGE HERE"`
 - `git push origin master`
-
-
