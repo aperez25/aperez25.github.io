@@ -19,7 +19,7 @@ You should be constantly reinventing your skillset - learning new tools, new des
 
 Giving yourself a benchmark forces you to ask questions and try new learning paradigms. 
 
-<img src="/images/StockSnap_IUJP9OI22I.jpg" class="fit image">
+<img src="/images/StockSnap_E7DHCBXE7R.jpg" class="fit image">
 
 ## "Bring your Heart to the Game"
 
