@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 As part of the bootcamp, we're asked to put together Tech Talks. I was inspired by [Software Engineering Daily's podcast on Ransomware](https://softwareengineeringdaily.com/2017/04/27/ransomware-with-tim-gallo-and-allan-liska/), but little did I know how much information I would be sifting through! 
 
