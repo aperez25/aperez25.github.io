@@ -1,8 +1,12 @@
 ---
 published: true
-tags: 'conferences, self-development'
+tags:
+  - conferences
+  - self-development
 categories: 'conferences, self-development'
-label: 'conferences, self-development'
+label:
+  - conferences
+  - self-development
 ---
 I've been hesitant to go to any meetups, conferences, etc. because I was afraid I couldn't hold my own in a conversation with an **actual** engineer. I bit the bullet and attended a coder's summit this past Saturday, and can't recommend it enough. Surprisingly, most of the advice was focused on soft skills. Here are my takeaways: 
 
