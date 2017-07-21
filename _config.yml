@@ -8,7 +8,7 @@ facebook_username:
 twitter_username:
 github_username:  "aperez25"
 linkedin_username: "alicep"
-feed_icon: rss
+feed_icon:
 email: "alice.perez25[at]gmail.com"
 gems: [jekyll-paginate, jekyll-feed]
 paginate_path: "/page/:num/"
