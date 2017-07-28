@@ -1,6 +1,6 @@
 title: Alice&#39;s Awesome Blog
-description: `Hi, I'm Alice Perez`
-tagline: "The woman, the myth, the legend"
+description: "Hi, I'm Alice Perez"
+tagline: "Here is my tech journey transitioning from sales to engineering"
 sass:
   sass_dir: assets/sass
 url: aperez25.github.io
