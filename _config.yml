@@ -1,13 +1,11 @@
 title: Alice&#39;s Awesome Blog
-description: > 
-  Alice Perez
+description: `Hi, I'm Alice Perez`
+tagline: "The woman, the myth, the legend"
 sass:
   sass_dir: assets/sass
 url: aperez25.github.io
-facebook_username:
-twitter_username:
-github_username:  "aperez25"
-linkedin_username: "alicep"
+github_username: aperez25
+linkedin_username: alicep
 feed_icon:
 email: "alice.perez25[at]gmail.com"
 gems: [jekyll-paginate, jekyll-feed]

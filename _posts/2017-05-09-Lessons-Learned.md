@@ -1,14 +1,10 @@
 ---
 published: true
-tags:
-  - conferences
-  - self-development
-categories: 'conferences, self-development'
-label:
-  - conferences
-  - self-development
+categories: 'conferences self-development'
+layout: post
+title: 'LOFT Coder Summit: Lessons Learned'
 ---
-I've been hesitant to go to any meetups, conferences, etc. because I was afraid I couldn't hold my own in a conversation with an **actual** engineer. I bit the bullet and attended a coder's summit this past Saturday, and can't recommend it enough. Surprisingly, most of the advice was focused on soft skills. Here are my takeaways: 
+I've been hesitant to go to any meetups, conferences, etc. because I was afraid I couldn't hold my own in a conversation with an **actual** engineer. I bit the bullet and attended a coder's summit this past Saturday, and can't recommend it enough. Surprisingly, most of the advice was focused on soft skills. Here are my takeaways:
 
 <img src="/images/StockSnap_YBD1S2AW8B.jpg" class="fit image">
 
@@ -19,9 +15,9 @@ This piece of advice ties into imposter syndrome / lack of confidence. No one do
 
 ## "Change Faster than the World is Changing"
 
-You should be constantly reinventing your skillset - learning new tools, new design patterns, etc. Start trying to "see around corners" and predict what technologies and trends will be next. if you don't get something, assume there's another way to ask what you're trying to understand. You can do this by experimenting with new libraries, reading Hacker News, and/or following along with tutorials. To really push yourself; if you think something is an amazing piece of technology, reverse engineer it. Then, make it better! 
+You should be constantly reinventing your skillset - learning new tools, new design patterns, etc. Start trying to "see around corners" and predict what technologies and trends will be next. if you don't get something, assume there's another way to ask what you're trying to understand. You can do this by experimenting with new libraries, reading Hacker News, and/or following along with tutorials. To really push yourself; if you think something is an amazing piece of technology, reverse engineer it. Then, make it better!
 
-Giving yourself a benchmark forces you to ask questions and try new learning paradigms. 
+Giving yourself a benchmark forces you to ask questions and try new learning paradigms.
 
 <img src="/images/StockSnap_E7DHCBXE7R.jpg" class="fit image">
 
