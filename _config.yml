@@ -7,7 +7,8 @@ url: aperez25.github.io
 github_username: aperez25
 linkedin_username: alicep
 feed_icon:
-email: "alice.perez25[at]gmail.com"
+email: "alice.perez25@gmail.com"
 gems: [jekyll-paginate, jekyll-feed]
 paginate_path: "/page/:num/"
 paginate: 5
+github: [aperez25]
