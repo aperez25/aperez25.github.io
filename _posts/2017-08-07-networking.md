@@ -4,8 +4,6 @@ title: 'An Event a Week: Experiments in Networking'
 layout: post
 categories: networking meetups life-after-bootcamp
 ---
-## Putting the _work_ into Networking
-
 What astounds me about the tech industry is how many people are willing to help you; help you sharpen your skills, help you get your foot in the door, help you connect with the right people, etc. But you have to put yourself out there! Here are my tips for finding the right events and making the most out your time there.
 
 <img src="/images/fulls/StockSnap_S05DRRCFVB.jpg" class="fit image">
