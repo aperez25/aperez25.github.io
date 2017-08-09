@@ -235,6 +235,7 @@
 			line-height: 1.5em;
 		}
 
+
 		&.major {
 			h2 {
 				font-size: 2em;
@@ -901,9 +902,9 @@
 		background-repeat:		repeat,								no-repeat;
 		background-size:		auto,								auto 100%;
 		color: _palette(accent2, fg);
-		height: 110%;
+		height: 100%;
 		left: 0;
-		padding: ($size-header-pad * 2) $size-header-pad 0 0;
+		padding: ($size-header-pad / 2) $size-header-pad 0 0;
 		position: fixed;
 		text-align: right;
 		top: 0;
@@ -915,20 +916,30 @@
 
 		h2, h3, h4, h5, h6 {
 			color: _palette(accent2, fg-bold);
+			font-family: rounded elegance;
 		}
 
 		h1 {
 			color: _palette(accent2, fg);
-			font-size: 2em;
+			font-size: 2.25em;
 			line-height: 1.75em;
 			margin: 0;
 			font-family: bromello;
+		}
+
+		.image.about {
+			height: 3em;
+			border: 2px solid;
+			border-color: white;
+			opacity: 0.7;
+			padding: .25em;
 		}
 
 		.image.avatar {
 			margin: 0 0 (_size(element-margin) * 0.5) 0;
 			width: 8.5em;
 		}
+
 	}
 
 /* Footer */
@@ -936,7 +947,7 @@
 	#footer {
 		bottom: 0;
 		left: 0;
-		padding: 0 $size-header-pad ($size-header-pad + _size(element-margin)) 0;
+		padding: 0 $size-header-pad $size-header-pad 0;
 		position: fixed;
 		text-align: right;
 		width: $size-header-width;
