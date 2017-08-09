@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: 'Sales vs. Engineering [Part One]'
+categories: thoughts life-after-bootcamp careers
 ---
 
 Before I quit my job, I had a conversation with a friend who was a technical recruiter, about whether leaving my sales career to become a software engineer was doable. My friend thought it was "an interesting leap" and that the two trajectories were brain switches that didn't exactly align. At the time, I didn't think it was necessarily true, and _now_ I **definitely** think it isn't true. 
@@ -33,8 +35,3 @@ But, trust me, sales people **TRACK EVERYTHING**. They are obsessed with improvi
 ## TLDR: Sales reps and engineers are both constantly learning new things and honing their skills. 
 
 ### _Stay tuned for Part Two!_
-
-
-
-
-
