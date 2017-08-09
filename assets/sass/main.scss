@@ -919,14 +919,15 @@
 
 		h1 {
 			color: _palette(accent2, fg);
-			font-size: 1.35em;
+			font-size: 2em;
 			line-height: 1.75em;
 			margin: 0;
+			font-family: bromello;
 		}
 
 		.image.avatar {
 			margin: 0 0 (_size(element-margin) * 0.5) 0;
-			width: 8em;
+			width: 8.5em;
 		}
 	}
 
